@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php require 'header.php'; ?>
-<link href="pages-temp/asset/library.css" rel="stylesheet">
+<link href="/asset/css/library.css" rel="stylesheet">
 <style>
   @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
 </style>
