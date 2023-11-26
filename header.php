@@ -14,6 +14,9 @@
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Arabic:wght@600&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Nastaliq+Urdu:wght@400;500&display=swap" rel="stylesheet">
 
     <!-- Libraries Stylesheet -->
     <link href="asset/lib/animate/animate.min.css" rel="stylesheet">
@@ -191,9 +194,9 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">More</a>
                     <div class="dropdown-menu border-0 rounded-0 rounded-bottom m-0">
-                        <a href="#" class="dropdown-item">Listen Quran Recitations</a>
+                        <a href="listen-quran-recitations.php" class="dropdown-item">Listen Quran Recitations</a>
                         <div class="dropdown-divider"></div>
-                        <a href="#" class="dropdown-item">e-Book Library</a>
+                        <a href="library.php" class="dropdown-item">e-Book Library</a>
 
 
                     </div>

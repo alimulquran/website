@@ -195,9 +195,9 @@
                 <div class="nav-item dropdown">
                     <a href="#" class="nav-link dropdown-toggle" data-bs-toggle="dropdown">More</a>
                     <div class="dropdown-menu border-0 rounded-0 rounded-bottom m-0">
-                        <a href="#" class="dropdown-item">Listen Quran Recitations</a>
+                        <a href="listen-quran-recitations.php" class="dropdown-item">Listen Quran Recitations</a>
                         <div class="dropdown-divider"></div>
-                        <a href="Testimonials.html" class="dropdown-item">e-Book Library</a>
+                        <a href="library.php" class="dropdown-item">e-Book Library</a>
 
 
                     </div>
