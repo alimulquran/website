@@ -197,7 +197,7 @@
                     <div class="dropdown-menu border-0 rounded-0 rounded-bottom m-0">
                         <a href="#" class="dropdown-item">Listen Quran Recitations</a>
                         <div class="dropdown-divider"></div>
-                        <a href="library.php" class="dropdown-item">e-Book Library</a>
+                        <a href="Testimonials.html" class="dropdown-item">e-Book Library</a>
 
 
                     </div>
