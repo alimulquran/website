@@ -2,7 +2,7 @@
 <html lang="en">
 
 <?php require 'header.php'; ?>
-<link href="/asset/css/library.css" rel="stylesheet">
+<link href="asset/css/library.css" rel="stylesheet">
 <style>
   @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,600');
 </style>
@@ -60,7 +60,7 @@
               <ul class='page'>
                 <li></li>
                 <li>
-                  <a class="btn1" href="asset/books/your-tajweed-made-easy.pdf">Download</a>
+                  <a class="btn1" href="asset/books/13-Lines Tajweedi Quran In High Quality Beautiful Color Coded.pdf">Download</a>
                 </li>
                 <li></li>
                 <li></li>
@@ -390,20 +390,20 @@
 
                       <!-- Front -->
                       <div class="row">
-                        <div class="col-4 py-2 ">
+                        <div class="col-md-4 col-6 py-2 ">
                           <p id="book-volumeLabel">Book - V1</p>
                           <img src="asset/img/books/book-9e.jpg" alt="" width="100%">
                           <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part1.pdf">Download</a>
 
                         </div>
 
-                        <div class="col-4 py-2" href="#">
+                        <div class="col-md-4 col-6 py-2" href="#">
                           <p id="book-volumeLabel">Book - V2</p>
                           <img src="asset/img/books/book-9e.jpg" alt="" width="100%">
                           <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part2.pdf">Download</a>
 
                         </div>
-                        <div class="col-4 py-2">
+                        <div class="col-md-4 col-6 py-2">
                           <p id="book-volumeLabel">Book - V3</p>
                           <img src="asset/img/books/book-9e.jpg" alt="" width="100%">
                           <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part3.pdf">Download</a>
@@ -642,30 +642,30 @@
 
                       <!-- Front -->
                       <div class="row">
-                        <div class="col-3 py-2 ">
+                        <div class="col-md-4 col-6 py-2 ">
                           <p id="book-volumeLabel">Book - V1</p>
                           <img src="asset/img/books/book-15e.jpg" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/معانی القرآن الکریم_Part1.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/تفسيرالقرآن الكريم1.pdf">Download</a>
 
                         </div>
 
-                        <div class="col-3 py-2" href="#">
+                        <div class="col-md-4 col-6 py-2" href="#">
                           <p id="book-volumeLabel">Book - V2</p>
                           <img src="asset/img/books/book-15e.jpg" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/معانی القرآن الکریم_Part2.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/تفسيرالقرآن الكريم2.pdf">Download</a>
 
                         </div>
-                        <div class="col-3 py-2">
+                        <div class="col-md-4 col-6 py-2">
                           <p id="book-volumeLabel">Book - V3</p>
                           <img src="asset/img/books/book-15e.jpg" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/معانی القرآن الکریم_Part3.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/تفسيرالقرآن الكريم3.pdf">Download</a>
 
                         </div>
 
-                        <div class="col-3 py-2">
+                        <div class="col-md-4 col-6 py-2">
                           <p id="book-volumeLabel">Book - V4</p>
                           <img src="asset/img/books/book-15e.jpg" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/معانی القرآن الکریم_Part3.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-1 mt-3" href="asset/books/تفسيرالقرآن الكريم4.pdf">Download</a>
 
                         </div>
 
@@ -787,23 +787,23 @@
 
                       <!-- Front -->
                       <div class="row">
-                        <div class="col-4 py-2 ">
+                        <div class="col-md-4 col-6 py-2 ">
                           <p id="book-volume3Label">Book - V1</p>
                           <img src="asset/img/books/book-1.png" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part1.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/learn islam pdf english book __ Lughat_ul_Arabia1.pdf">Download</a>
 
                         </div>
 
-                        <div class="col-4 py-2" href="#">
+                        <div class="col-md-4 col-6 py-2" href="#">
                           <p id="book-volume3Label">Book - V2</p>
                           <img src="asset/img/books/book-1.png" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part2.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/learn islam pdf english book __ Lughat_ul_Arabia2.pdf">Download</a>
 
                         </div>
-                        <div class="col-4 py-2">
+                        <div class="col-md-4 col-6 py-2">
                           <p id="book-volume3Label">Book - V3</p>
                           <img src="asset/img/books/book-1.png" alt="" width="100%">
-                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/معانی القرآن الکریم_Part3.pdf">Download</a>
+                          <a class="btn btn-dark  d-lg-block mx-3 mt-3" href="asset/books/learn islam pdf english book __ Lughat_ul_Arabia3.pdf">Download</a>
 
                         </div>
 
